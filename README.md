@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-Responsive homework 02
+# Basic-Portfolio
+This is my home 01 
